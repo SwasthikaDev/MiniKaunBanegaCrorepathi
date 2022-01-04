@@ -1,2 +1,2 @@
-unzip the file in the link ->
+unzip the file in the link -> https://drive.google.com/file/d/1f-bMsMNSgtBloIUKu4DY7-Z_zveVtdYn/view?usp=sharing
 Paste the glut32.dll in \Windows
