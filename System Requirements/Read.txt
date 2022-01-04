@@ -1,0 +1,2 @@
+unzip the file in the link ->
+Paste the glut32.dll in \Windows
